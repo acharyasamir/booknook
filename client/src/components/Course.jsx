@@ -25,13 +25,7 @@ function Course() {
             <span className="text-pink-500"> Here! :)</span>
           </h1>
           <p className="mt-12">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro,
-            assumenda? Repellendus, iste corrupti? Tempore laudantium
-            repellendus accusamus accusantium sed architecto odio, nisi expedita
-            quas quidem nesciunt debitis dolore non aspernatur praesentium
-            assumenda sint quibusdam, perspiciatis, explicabo sequi fugiat amet
-            animi eos aut. Nobis quisquam reiciendis sunt quis sed magnam
-            consequatur!
+          Dive into the world of books with BookNook, where every page brings a new journey. Our curated collection ranges from timeless classics to modern bestsellers, ensuring that every reader finds a book that resonates. Whether you’re looking to escape into a fantasy realm, uncover the secrets of history, or gain new knowledge, our shelves are stocked with tales and textbooks to fuel your imagination and growth.
           </p>
           <Link to="/">
             <button className="mt-6 bg-pink-500 text-white px-4 py-2 rounded-md hover:bg-pink-700 duration-300">
